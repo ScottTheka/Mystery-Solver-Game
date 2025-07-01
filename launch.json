@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DetectiveGame",
+      "request": "launch",
+      "mainClass": "DetectiveGame",
+      "projectName": "DetectiveGame_1cde5acf"
+    },
+    {
+      "type": "java",
+      "name": "Launch DetectiveGame",
+      "request": "launch",
+      "mainClass": "DetectiveGame",
+      "projectName": "DetectiveGame",
+      "vmArgs": "--enable-preview"
+    }
+  ]
+}
